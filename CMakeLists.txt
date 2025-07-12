@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.28)
 project(odin_allegro)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(CMAKE_INSTALL_PREFIX ../allegro)
+set(CMAKE_INSTALL_PREFIX ../c_code)
 
 include(FetchContent)
 
